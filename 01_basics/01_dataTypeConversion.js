@@ -60,7 +60,7 @@ let stringNmuber = String(someNmuber)
   console.log(gameCounter) // 101
 
   let x = 3;
-const y = x++;
+const y = x++; // first uses value then increased the value
 
 console.log(`x:${x}, y:${y}`);
 // Expected output: "x:4, y:3"
@@ -70,5 +70,4 @@ const b = ++a;
 
 console.log(`a:${a}, b:${b}`);
 // Expected output: "a:4, b:4"
-
 

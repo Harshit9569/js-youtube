@@ -46,7 +46,7 @@ console.log(typeof undefined)//type is undefined
  /*
 Reference (non primitve )
 
-// Array,Objects,Function(data type of all are function for function is is called function object )
+// Array,Objects,Function(data type of all are object for function is is called function object )
 
 */
  const heros = ["shaktiman", "ironman", "naagraj"]
